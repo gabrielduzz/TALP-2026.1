@@ -8,8 +8,6 @@ Os slides das aulas, as anotações e os editoriais de solução podem ser encon
 
 O material é organizado de forma progressiva, com uma nova carga teórica e um *problem set* a cada encontro.
 
-*Nota: Os diretórios das aulas são atualizados com a pasta `editorial/`, contendo códigos e explicações, apenas após o encerramento do prazo oficial de Upsolving de cada lista.*
-
 ## Adoção e Uso
 
 Este material é de código aberto e pode ser utilizado ou adaptado livremente para outros cursos, grupos de treinamento ou estudos individuais. A ementa e a metodologia foram estruturadas com base nos padrões do *Competitive Programmer's Handbook* e do *USACO Guide*.
