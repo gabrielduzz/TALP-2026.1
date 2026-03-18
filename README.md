@@ -1,8 +1,8 @@
 # Tópicos Avançados de Linguagem de Programação: Introdução à Programação Competitiva
 
-Este repositório contém o material oficial da disciplina de Introdução à Programação Competitiva, lecionada na [Nome da Sua Instituição/Universidade]. O curso é focado na resolução algorítmica de problemas sob pressão, preparando os alunos para competições de programação e processos seletivos de empresas de tecnologia.
+Este repositório contém o material oficial da disciplina de Introdução à Programação Competitiva, lecionada na Universidade Estadual do Sudoeste da Bahia (UESB). O curso é focado na resolução algorítmica de problemas sob pressão, preparando os alunos para competições de programação e processos seletivos de empresas de tecnologia.
 
-Os slides das aulas (incluindo os códigos-fonte em LaTeX), as anotações e os editoriais de solução podem ser encontrados neste repositório, dentro dos diretórios referentes a cada aula. Todos os problemas práticos e *contests* da disciplina são hospedados e avaliados através do juiz online [VJudge](https://vjudge.net/group/talp?r=raMmPEiJxxztVRXyWJ5H).
+Os slides das aulas, as anotações e os editoriais de solução podem ser encontrados neste repositório, dentro dos diretórios referentes a cada aula. Todos os problemas práticos e *contests* da disciplina são hospedados e avaliados através do juiz online [VJudge](https://vjudge.net/group/talp?r=raMmPEiJxxztVRXyWJ5H).
 
 ## Estrutura do Curso
 
