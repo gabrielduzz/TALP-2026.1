@@ -4,7 +4,7 @@ Apresenta as regras básicas da disciplina, o funcionamento dos juízes online e
 
 ## Problemas
 
-Resolva alguns dos seguintes problemas no VJudge. Você precisa de **3 pontos** para obter a nota máxima nesta lista.
+Resolva alguns dos seguintes problemas no [VJudge](https://vjudge.net/contest/797774). Você precisa de **3 pontos** para obter a nota máxima nesta lista.
 
 * [Cold-puter Science](https://open.kattis.com/problems/cold) (1 ponto)
 * [Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) (2 pontos)
