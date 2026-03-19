@@ -20,7 +20,7 @@ Este ranking é gerado automaticamente com base na soma das listas de exercício
 |        10 | Patrique(202310197)         |                 4 |                    423 |
 |        11 | tiago_sb(202220722)         |                 4 |                    425 |
 |        12 | HerculesSam(Herculano)      |                 4 |                    929 |
-|        13 | Patrick_Tigre(202110850)    |                 3 |                    237 |
-|        14 | AVLGustavo                  |                 3 |                    247 |
-|        15 | gervasss(201912286)         |                 3 |                    388 |
-|        16 | luan12lelis(202310352)      |                 2 |                    233 |
+|        13 | luan12lelis(202310352)      |                 4 |                   1487 |
+|        14 | Patrick_Tigre(202110850)    |                 3 |                    237 |
+|        15 | AVLGustavo                  |                 3 |                    247 |
+|        16 | gervasss(201912286)         |                 3 |                    388 |
