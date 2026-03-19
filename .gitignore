@@ -1,8 +1,0 @@
-.gitignore
-venv/
-__pycache__/
-Ranking_Global.xlsx
-Listas/
-Submissoes/
-gerar_ranking_global.py
-renomear_submissoes.py
