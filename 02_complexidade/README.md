@@ -1,4 +1,4 @@
-# Aula 01: Introdução
+# Aula 02: Complexidade
 
 Aula sobre notação Big O, estimativa de tempo de execução, espaço na memória e compreensão da métrica para um algoritmo estar nos limites de tempo e memória do juiz online.
 
