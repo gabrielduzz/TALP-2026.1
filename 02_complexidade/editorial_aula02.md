@@ -136,7 +136,7 @@ Talvez haja um padrão ou uma propriedade matemática que simplifique o cálculo
 
 </details><details> <summary>Solução</summary>
 
-Uma tentativa ingênua de calcular $5^n$ diretamente e depois pegar os dois últimos dígitos falharia devido à **integer overflow** ($5^n$ cresce muito rápido, ultrapassando rapidamente a capacidade de qualquer tipo inteiro padrão); e **time limit exceeded** (para o pior caso ($n = 2 \cdot 10^{18}$) , multiplicar $5$ $n$ vezes ($O(n)$) é inviável) 
+Uma tentativa ingênua de calcular $5^n$ diretamente e depois pegar os dois últimos dígitos falharia devido à **integer overflow** ($5^n$ cresce muito rápido, ultrapassando rapidamente a capacidade de qualquer tipo inteiro padrão); e **time limit exceeded** (para o pior caso ($n = 2 \cdot 10^{18}$) , multiplicar $5$ $n$ vezes ( $O(n)$ ) é inviável) 
 
 Porém, percebe-se que, para qualquer $n \ge 2$ (que é o limite minimo de $n$ para a questão), $5^n$ sempre termina com $25$.
 Isso acontece porque $5^2 = 25$, e qualquer multiplicação subsequente por $5$ mantém os dois últimos dígitos como $25$.
@@ -145,6 +145,8 @@ Isso acontece porque $5^2 = 25$, e qualquer multiplicação subsequente por $5$ 
 
 Complexidade: $O(1)$
 
+
+</details>
 
 <details>
 
