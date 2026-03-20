@@ -7,10 +7,11 @@
 <details>
 <summary>Solução</summary>
 
-Como o array de entrada já está ordenado, a posição dos competidores dentro do contest é a mesma posição relativa dentro do array (1º lugar → `array[0]`, 2º lugar → `array[1]`, etc).  
-Sabendo disso, basta armazenar a pontuação do competidor cujo índice é $k-1$, e verificar dentro do array quantos elementos são maiores ou iguais a ele e diferentes de zero.
+Para a solução dessa questão, não é necessário utilizar array. Portanto, possui complexidade espacial de $O(1)$
 
-Complexidade: $O(n)$
+Como a pontuação dos participantes já esta ordenada, então todos os primeiros $k$ elementos diferentes de 0 devem ser contados. A partir dos próximos $n-k$ elementos, deve-se observar se eles são pelo menos iguais ao valor de $k$. Portanto, cria-se uma variável de referência, que será atualizada quando o valor de k for inserido.
+
+Complexidade temporal: $O(n)$
 
 </details>
 
@@ -21,21 +22,17 @@ Complexidade: $O(n)$
 #include <bits/stdc++.h>
 using namespace std;
  
-int main() {
-    int n, k, contador = 0;
-    cin >> n >> k;
-    int vetor[n];
-    
-    for (int i = 0; i < n; i++) {
-        cin >> vetor[i];
-    }
-    
-    int referencia = vetor[k - 1];
-    
-    for (int i = 0; i < n; i++) {
-        if (vetor[i] >= referencia && vetor[i] != 0) {
-            contador++;
-        }
+const int INF = INT_MAX;
+ 
+int main () { 
+    int k, n; cin >> n >> k;
+    k--;
+    int contador = 0;
+    int referencia = -INF;
+    for (int i = 0; i < n; i++){
+        int nota; cin >> nota;
+        if (i == k) referencia = nota;
+        if (nota >= referencia && nota != 0) contador++;
     }
     
     cout << contador;
