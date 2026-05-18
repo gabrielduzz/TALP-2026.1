@@ -17,7 +17,7 @@ Complexidade: `O(n)`
 </details><details> <summary>Código (C++)</summary>
 
 ```cpp
-	#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void solve() {
@@ -53,6 +53,7 @@ int main() {
     return 0;
 }
 ```
+</details>
 
 ---
 
@@ -70,7 +71,7 @@ Complexidade: **`O(n)`**
 
 </details><details> <summary>Código (C++)</summary>
 
-```#**include**<bits/stdc++.h>**
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -89,7 +90,9 @@ int main() {
     }
     cout << ans << "\n";
 }
+
 ```
+</details>  
 
 ---
 
