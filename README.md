@@ -15,7 +15,7 @@ Abaixo estão as principais referências adotadas pela comunidade de Programaç�
 * **[USACO Guide](https://usaco.guide/)**: O melhor roteiro de estudos.
 * **[Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)**: Livro base da nossa disciplina.
 * **[CP-Algorithms](https://cp-algorithms.com/)**: Excelente para explicações matemáticas e implementações otimizadas em C++.
-* **[C++ Reference](https://en.cppreference.com/)**: A documentação oficial e definitiva do C++.
+* **[C++ Reference](https://en.cppreference.com/)**: A documentação oficial do C++.
 * **[CSES Problem Set](https://cses.fi/problemset/)**: Plataforma com problemas clássicos divididos por tópicos.
 * **[TLE-Eliminators](https://www.tle-eliminators.com/cp-sheet)**: Lista curada de exercícios do CodeForces.
 * **[VisuAlgo](https://visualgo.net/)**: Visualizador interativo de algoritmos e estruturas de dados.
