@@ -45,4 +45,3 @@ Gerado automaticamente a partir das listas exportadas do **VJudge**.
 |        35 | Patrick_Tigre(202110850)     |                 3 |   142437           |
 |        36 | AVLGustavo                   |                 3 |   148448           |
 |        37 | gervasss(201912286)          |                 3 |   233188           |
-|        38 | art_rod22 (Artur Rodrigues)  |                 1 |       18.3         |
