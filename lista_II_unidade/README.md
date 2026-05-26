@@ -39,8 +39,6 @@ https://codeforces.com/contest/1201/problem/C
 
 https://codeforces.com/problemset/problem/1195/B
 
-https://codeforces.com/gym/106073/problem/M
-
 ## Atividade em trio
 https://open.kattis.com/problems/birds
 
