@@ -8,40 +8,27 @@ Gerado automaticamente a partir das listas exportadas do **VJudge**.
 
 |   Posição | Aluno (Matrícula)            |   Pontuação Total |   Penalidade (min) |
 |----------:|:-----------------------------|------------------:|-------------------:|
-|         1 | hugoobotelho (202210485)     |                33 |     6588.2         |
-|         2 | Suricatan (202410626)        |                33 |    20021.3         |
-|         3 | jv_cangussu (202210559)      |                31 |     5601.6         |
-|         4 | IsisCaroline (202410016)     |                31 |    12651.1         |
-|         5 | gustavocruz (202310272)      |                30 |     4652.7         |
-|         6 | Samuelivanovichi (202511470) |                30 |     7270.4         |
-|         7 | Netto (202410814)            |                29 |     8515.6         |
-|         8 | ana_clara_veiga (202310370)  |                29 |     9134           |
-|         9 | luan12lelis (202310352)      |                29 |    19763.5         |
-|        10 | HerculesSam (202310486)      |                27 |    15757.3         |
-|        11 | tiago_sb (202220722)         |                25 |     6512.5         |
-|        12 | augusto_csa (Augusto)        |                23 |     2114.8         |
-|        13 | jvgmacedo (jvmacedo)         |                22 |     4252.7         |
-|        14 | Patrique (202310197)         |                22 |     8152.4         |
-|        15 | Patrick_Tigre (202110850)    |                19 |     1209.2         |
-|        16 | arturgondim (202210167)      |                16 |     3191           |
-|        17 | isaac_santss (202220707)     |                15 |   106796           |
-|        18 | AVLGustavo (202410104)       |                13 |     4958.6         |
-|        19 | gervasss (201912286)         |                 8 |    86737.4         |
-|        20 | brener_gs (202110812)        |                 4 |    11515.8         |
-|        21 | jv_cangussu(202210559)       |                 4 |   172488           |
-|        22 | gustavocruz(202310272)       |                 4 |   192320           |
-|        23 | Samuelivanovichi(202511470)  |                 4 |   194724           |
-|        24 | IsisCaroline(202410016)      |                 4 |   197729           |
-|        25 | hugoobotelho(202210485)      |                 4 |   199533           |
-|        26 | ana_clara_veiga(202310370)   |                 4 |   200133           |
-|        27 | isaac_santss(202220707)      |                 4 |   200133           |
-|        28 | arturgondim(202210167)       |                 4 |   204942           |
-|        29 | Netto(202410814)             |                 4 |   245208           |
-|        30 | Patrique(202310197)          |                 4 |   254224           |
-|        31 | tiago_sb(202220722)          |                 4 |   255426           |
-|        32 | HerculesSam(Herculano)       |                 4 |        5.57493e+06 |
-|        33 | luan12lelis(202310352)       |                 4 |        2.14143e+07 |
-|        34 | Maick                        |                 3 |     4159.5         |
-|        35 | Patrick_Tigre(202110850)     |                 3 |   142437           |
-|        36 | AVLGustavo                   |                 3 |   148448           |
-|        37 | gervasss(201912286)          |                 3 |   233188           |
+|         1 | hugoobotelho (202210485)     |                48 |            10454.5 |
+|         2 | jv_cangussu (202210559)      |                46 |             8330.8 |
+|         3 | gustavocruz (202310272)      |                45 |            16065.8 |
+|         4 | Netto (202410814)            |                42 |            15110.3 |
+|         5 | luan12lelis (202310352)      |                42 |            25481.1 |
+|         6 | ana_clara_veiga (202310370)  |                41 |            12427.3 |
+|         7 | IsisCaroline (202410016)     |                41 |            14826.8 |
+|         8 | Suricatan (202410626)        |                41 |            20479.4 |
+|         9 | augusto_csa (Augusto)        |                34 |             7452.2 |
+|        10 | Samuelivanovichi (202511470) |                34 |             7594.4 |
+|        11 | tiago_sb (202220722)         |                33 |             7317   |
+|        12 | HerculesSam (202310486)      |                33 |            16766.2 |
+|        13 | jvgmacedo (jvmacedo)         |                32 |            19551.3 |
+|        14 | Patrique (202310197)         |                30 |             8727.7 |
+|        15 | Patrick_Tigre (202110850)    |                24 |             1531.6 |
+|        16 | isaac_santss (202220707)     |                24 |           107389   |
+|        17 | arturgondim (202210167)      |                20 |             3532.5 |
+|        18 | AVLGustavo (202410104)       |                16 |             5206.2 |
+|        19 | mcspereira (Cesinha)         |                11 |             3964.3 |
+|        20 | gervasss (201912286)         |                11 |            87125.7 |
+|        21 | Maick                        |                 7 |            12372.5 |
+|        22 | brener_gs (202110812)        |                 4 |            11515.8 |
+|        23 | art_rod22 (Artur Rodrigues)  |                 1 |               18.3 |
+|        24 | hyo                          |                 1 |              116.1 |
